@@ -11,3 +11,5 @@ collections:
 roles:
   - src: xanmanning.k3s
     version: v3.1.2
+  - src: devsec.hardening
+    version: v8.6.0
